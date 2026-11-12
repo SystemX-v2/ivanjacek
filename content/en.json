@@ -1,0 +1,563 @@
+{
+  "meta": {
+    "title": "Ivan Jaček – creative strategist | Seredan, Buduj Značku, SystemX",
+    "description": "Ivan Jaček: creative strategist. He founds and runs Seredan, Buduj Značku, Film o meste, Podnikavci v Seredi and SystemX."
+  },
+  "nav": {
+    "projects": "Projects",
+    "segments": "Who I help",
+    "contact": "Contact",
+    "expertise": "What I do",
+    "articles": "Articles"
+  },
+  "hero": {
+    "name": "Ivan Jaček",
+    "cta": "What I do",
+    "photo": "assets/ivan.webp",
+    "photo_alt": "Portrait of Ivan Jaček",
+    "role": "Project director and founder of Buduj Značku, former manager at IDC Holding",
+    "lead": "For years at IDC Holding I led a team of about 80 people and projects worth hundreds of thousands of euros. Today I bring that business discipline to video and digital strategy: I build brands, connect local governments with companies and organise communities.",
+    "headline_pre": "I build",
+    "words": [
+      "brands",
+      "communities",
+      "films about towns",
+      "digital systems",
+      "B2G partnerships"
+    ],
+    "sr_headline": "I build brands, communities, films about towns, digital systems and B2G partnerships.",
+    "orbit_label": "My projects"
+  },
+  "marquee": {
+    "label": "Collaborations and clients",
+    "items": [
+      "Mercedes-Benz",
+      "Strabag",
+      "Lindström",
+      "Duslo Šaľa",
+      "Semmelrock",
+      "I.D.C. Holding",
+      "NMH",
+      "Town of Sereď",
+      "Town of Senec",
+      "Town of Galanta",
+      "Town of Šaľa",
+      "Hubert J.E.",
+      "wienerberger Slovensko"
+    ]
+  },
+  "stats": {
+    "heading": "In numbers",
+    "items": [
+      {
+        "value": 80,
+        "label": "people in the team I led at IDC Holding (approximately)"
+      },
+      {
+        "value": 1000000,
+        "suffix": "+",
+        "label": "organic views of a single local Reel for a pizzeria"
+      },
+      {
+        "value": 4,
+        "label": "towns in Film o meste: Sereď, Senec, Galanta, Šaľa"
+      },
+      {
+        "value": 50000,
+        "label": "organic views of the Podnikavci community video"
+      }
+    ]
+  },
+  "projects": {
+    "heading": "Projects",
+    "lead": "Six projects I came up with and run. Open any of them to see how it works and who it helps.",
+    "items": [
+      {
+        "id": "seredan",
+        "name": "Seredan",
+        "role": "Co-founder",
+        "text": "A local media outlet from Sereď: interviews, articles, reports and a podcast about the people, companies and life of the town.",
+        "url": "https://www.seredan.sk",
+        "status": "active",
+        "image": "assets/logo-seredan.webp",
+        "image_kind": "logo",
+        "image_alt": "Seredan logo",
+        "details": {
+          "summary": "Seredan started as a video podcast. Today it is a local media outlet that captures life in the town: stories, successes, challenges and everyday moments.",
+          "how": [
+            "We record interviews and a podcast with people, companies and personalities from Sereď.",
+            "We publish articles and reports about what is happening in the town and its surroundings.",
+            "We introduce local companies from the inside, through their people, work and stories.",
+            "We create short videos and Reels, from advertising to inspiring and fun."
+          ],
+          "benefits": [
+            "One place where Sereď talks, inspires and connects.",
+            "Local companies introduce themselves through their stories and people.",
+            "Reach across the web, YouTube, Spotify, Instagram, TikTok and Facebook.",
+            "Entrepreneur meetups and the Documentary about Sereď under one brand."
+          ],
+          "for": [
+            "Local companies and sole traders",
+            "The town of Sereď and local organisations",
+            "Residents of Sereď and the surrounding area"
+          ]
+        }
+      },
+      {
+        "id": "budujznacku",
+        "name": "Buduj Značku",
+        "role": "Founder and creative strategist",
+        "text": "A creative and strategic agency that combines marketing, directing and storytelling. Corporate videos, photography, documentaries and workshops.",
+        "url": "https://www.budujznacku.sk",
+        "status": "active",
+        "image": "assets/logo-budujznacku.webp",
+        "image_kind": "logo",
+        "image_alt": "Buduj Značku logo",
+        "details": {
+          "summary": "An agency that does not just sell nice videos, it delivers results. It covers audit, creative, production and project management.",
+          "how": [
+            "Audit and analysis: we map where the company stands.",
+            "Strategy and creative concept.",
+            "Full delivery: script, directing, filming, photo, drone and editing.",
+            "Project management from the first idea to handover."
+          ],
+          "benefits": [
+            "Strategy, creative and production from one team.",
+            "A small core team, and for bigger jobs a full production crew with camera, photo and drone.",
+            "Corporate videos, photography, documentaries, Reels, events and instructional videos under one roof.",
+            "Workshops and a 60-hour programme on digital marketing, content creation and AI."
+          ],
+          "for": [
+            "Manufacturing and industrial companies (employer branding, onboarding)",
+            "Small and medium companies that want to be visible",
+            "Towns and local governments",
+            "Event and festival organisers"
+          ]
+        }
+      },
+      {
+        "id": "filmomeste",
+        "name": "Film o meste",
+        "role": "Founder",
+        "text": "A documentary series about Slovak towns. After the pilot film about Sereď, films about Senec, Galanta and Šaľa are in production.",
+        "url": "https://filmomeste.sk",
+        "status": "active",
+        "image": "assets/logo-filmomeste.png",
+        "image_kind": "logo",
+        "image_alt": "Film o meste logo",
+        "details": {
+          "summary": "A film chronicle of a town, not a short advertisement. It combines history, art and business and immortalises the stories of Slovak towns.",
+          "how": [
+            "We agree the project with the town and its mayor.",
+            "We bring in local companies as partners.",
+            "We film with a drone, interviews and voice-over.",
+            "We premiere the film and share it through the town's channels and social media."
+          ],
+          "benefits": [
+            "The town receives a professional film chronicle for future generations.",
+            "Local governments can receive the work free of charge, with terms agreed in person.",
+            "Partner companies gain reach through premieres, prestige and content for social media.",
+            "The pilot premiere in Sereď sold out."
+          ],
+          "for": [
+            "Towns and local governments",
+            "Local and regional companies as partners",
+            "Residents who want to see their town in a new light"
+          ]
+        }
+      },
+      {
+        "id": "podnikavci",
+        "name": "Podnikavci v Seredi",
+        "role": "Author, organiser and speaker",
+        "text": "A community of local entrepreneurs, sole traders and freelancers. Informal meetups in Sereď since summer 2025, free to attend.",
+        "url": "https://www.facebook.com/groups/podnikavci.sered",
+        "status": "active",
+        "image": "assets/logo-podnikavci.svg",
+        "image_kind": "logo",
+        "image_alt": "Podnikavci v Seredi community symbol: three people",
+        "details": {
+          "summary": "It is not about stiff presentations, but about relationships and local cooperation. Together, it is simply easier.",
+          "how": [
+            "We meet informally in a café over coffee.",
+            "Each meetup has a topic, for example paid advertising, filming with a phone, AI or e-invoicing.",
+            "Members introduce themselves and show their services.",
+            "Shared videos and collaborations grow out of the community."
+          ],
+          "benefits": [
+            "Get advice when you are working through a problem.",
+            "Find new partners to work with.",
+            "We give each other the energy and courage to keep going.",
+            "Free to attend, and the shared video got 50,000 organic views."
+          ],
+          "for": [
+            "Entrepreneurs and sole traders from Sereď and the surrounding area",
+            "Freelancers",
+            "People who plan to start a business"
+          ]
+        }
+      },
+      {
+        "id": "uspesnyslovak",
+        "name": "Úspešný Slovák",
+        "role": "A Buduj Značku project",
+        "text": "A motivational documentary format about the life paths of remarkable Slovaks. Guests were guitarist Jimi Cimbala, traveller Martin Navrátil, marketer Filip Kuna, Thai boxer Monika Chochlíková and long-distance swimmer Soňa Rebrová.",
+        "status": "archive",
+        "image": "assets/uspesnyslovak.jpg",
+        "image_kind": "cover",
+        "image_alt": "Cover artwork of the Úspešný Slovák show featuring guest Martin Navrátil",
+        "details": {
+          "summary": "A documentary format about people who achieved something exceptional. The project has ended, with stories of five guests completed.",
+          "how": [
+            "We invited a remarkable Slovak from their field.",
+            "We recorded an interview about their journey, challenges and successes.",
+            "The story became a documentary format."
+          ],
+          "benefits": [
+            "Inspiration from real life stories.",
+            "A wide range of fields: music, travel, marketing, Thai boxing and long-distance swimming.",
+            "Well-known people who stand behind their story."
+          ],
+          "for": [
+            "Anyone looking for inspiration in the stories of remarkable people"
+          ]
+        }
+      },
+      {
+        "id": "systemx",
+        "name": "SystemX",
+        "role": "Founder and managing director",
+        "text": "Custom software and web systems: ordering and booking systems, invoicing and company portals.",
+        "url": "https://systemx.sk",
+        "status": "active",
+        "image": "assets/logo-systemx.webp",
+        "image_kind": "logo",
+        "image_alt": "SystemX logo",
+        "details": {
+          "summary": "Development of advanced web systems and unique online solutions. From simple websites to B2B portals and custom systems.",
+          "how": [
+            "Consultation: free and non-binding.",
+            "Solution design with an exact price.",
+            "System development.",
+            "Launch: deployment, training and support."
+          ],
+          "benefits": [
+            "The system and the data belong to the client, with no third-party platforms or external apps.",
+            "Automation of repetitive work and the use of AI.",
+            "Your own colours, brand and domain.",
+            "Software that grows with the company.",
+            "FakturujX: my own invoicing app connected to the digital postman, which I offer to others for free."
+          ],
+          "for": [
+            "Companies with B2B orders, such as bakeries and delicatessens",
+            "Services and salons that need bookings",
+            "Companies that want to automate invoicing and reminders",
+            "Local governments and organisations with portals and dashboards"
+          ]
+        }
+      }
+    ]
+  },
+  "segments": {
+    "heading": "Who I help",
+    "lead": "Different projects serve different people. Find yourself and open what fits.",
+    "items": [
+      {
+        "id": "smb",
+        "name": "Small and medium companies",
+        "text": "Visibility through video and content, workshops on marketing and AI, and custom software.",
+        "projects": [
+          "budujznacku",
+          "systemx"
+        ]
+      },
+      {
+        "id": "industry",
+        "name": "Manufacturers and larger companies",
+        "text": "Corporate videos, employer branding, instructional videos for training and B2B systems.",
+        "projects": [
+          "budujznacku",
+          "systemx"
+        ]
+      },
+      {
+        "id": "cities",
+        "name": "Towns and local governments",
+        "text": "Documentary films about the town, a local media outlet and custom portals.",
+        "projects": [
+          "filmomeste",
+          "seredan",
+          "systemx"
+        ]
+      },
+      {
+        "id": "local",
+        "name": "Local entrepreneurs",
+        "text": "A community where entrepreneurs advise each other and work together, and a media outlet that introduces them.",
+        "projects": [
+          "podnikavci",
+          "seredan"
+        ]
+      },
+      {
+        "id": "public",
+        "name": "Community and the public",
+        "text": "Stories of people and places, interviews and inspiration.",
+        "projects": [
+          "seredan",
+          "uspesnyslovak",
+          "filmomeste"
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Contact",
+    "lead": "Have a project, a collaboration or an idea? Write to me or call.",
+    "email": "info@budujznacku.sk",
+    "phone": "+421 908 714 705",
+    "linkedin": "https://www.linkedin.com/in/ivanjacek",
+    "linkedin_label": "LinkedIn"
+  },
+  "ui": {
+    "language": "Language",
+    "archive": "Archive",
+    "visit": "Visit website",
+    "skip": "Skip to content",
+    "footer": "Buduj Značku s.r.o.",
+    "privacy": "Privacy policy",
+    "sitemap": "Sitemap",
+    "cookies": "Cookie settings",
+    "operator": "Buduj Značku s.r.o., Company ID 56 936 125, Starý most 11/9, 926 01 Sereď, Slovakia",
+    "detail": "Details",
+    "close": "Close",
+    "to_top": "Back to top",
+    "menu": "Menu",
+    "tab_how": "How it works",
+    "tab_benefits": "Benefits",
+    "tab_for": "Who it is for",
+    "ended": "This project has ended",
+    "error": "Could not load the content. Run the page through a local server: python3 -m http.server 8000",
+    "read": "Read",
+    "minutes_label": "min read",
+    "article": "Article"
+  },
+  "expertise": {
+    "heading": "What I do",
+    "lead": "Strategy, content, community and technology in one place. This is what my work looks like.",
+    "items": [
+      {
+        "title": "Brands and strategy",
+        "text": "Audit, strategy and creative concept. I treat video not as decoration but as a tool that delivers a business goal: recruitment, sales or building a name in the region."
+      },
+      {
+        "title": "Video, podcasts and documentaries",
+        "text": "From viral Reels to corporate films and events. Content that either educates or entertains. Plus the Seredan podcast and the Film o meste documentary series."
+      },
+      {
+        "title": "Public sector and companies",
+        "text": "I connect local governments with companies (B2G). I help developers and corporations become a real part of the community, in Film o meste through valuable content."
+      },
+      {
+        "title": "Communities and events",
+        "text": "I organise entrepreneur meetups, host events and give talks. A community grows where people meet regularly."
+      },
+      {
+        "title": "Mentoring and workshops",
+        "text": "I teach companies and sole traders how to master social media technically and strategically, so their content delivers results even without an outside agency. Plus a 60-hour programme on digital marketing and AI."
+      },
+      {
+        "title": "AI and company digitalisation",
+        "text": "I help companies adopt automation and artificial intelligence. Through SystemX I develop custom software."
+      }
+    ]
+  },
+  "articles": {
+    "heading": "Expert articles",
+    "lead": "How business works, what artificial intelligence can do today and how to work with the public sector. Experience from my projects.",
+    "items": [
+      {
+        "id": "znacka",
+        "tag": "Brand and marketing",
+        "title": "How to build a brand that sells",
+        "perex": "A nice video is not a brand. A brand emerges when strategy, content and results pull in the same direction.",
+        "minutes": 4,
+        "body": [
+          {
+            "h": "Start with an audit, not a camera",
+            "p": [
+              "Before anything is filmed, you need to know who the company sells to, what it promises and where customers' attention is lost. That is why at Buduj Značku we start with an audit and analysis, then design the strategy, and only then comes delivery and project management.",
+              "A company that skips the audit often films great content for the wrong audience."
+            ]
+          },
+          {
+            "h": "One video, one goal",
+            "p": [
+              "Each video should solve one thing. An instructional video teaches one task, a recruitment video convinces one type of candidate, a short social video has to grab attention in the first seconds. The more goals, the fewer get met.",
+              "For short vertical videos (9:16), the opening shot, captions and sound decide, because many people watch without sound."
+            ]
+          },
+          {
+            "h": "Do not just obsess over technique, focus on the story",
+            "p": [
+              "One local Reel for a pizzeria passed 1,000,000 views without a big crew or expensive equipment. A good idea, a simple plot and an understanding of what the local audience actually enjoys were enough.",
+              "If a video either entertains or educates people, the algorithm rewards it with reach you cannot buy. That is why polished production should alternate with authentic social media content."
+            ]
+          },
+          {
+            "h": "Show people, not slogans",
+            "p": [
+              "Nobody knows your company as well as you and your people do. The best content is made right on site: production, the team, real processes. That is how employer branding and instructional training videos work.",
+              "What is real is what is believable."
+            ]
+          },
+          {
+            "h": "Measurement is part of the job",
+            "p": [
+              "Quality video sells only when you know what it should deliver: enquiries, candidate applications, brand recall. Goals must be set before filming, not after.",
+              "We do not just sell nice videos. We want it to be possible to show what the videos brought the company."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ai",
+        "tag": "Artificial intelligence",
+        "title": "What artificial intelligence can do today in a small company",
+        "perex": "AI is no longer only for large companies. Where it helps right away, what it does not replace and how to start without risk.",
+        "minutes": 4,
+        "body": [
+          {
+            "h": "Where AI helps right away",
+            "p": [
+              "I see the biggest benefit in everyday administration and content creation: emails, price quotes, website and social media texts, graphic drafts in tools like Canva. Even a website can be prepared today without programming.",
+              "At workshops we show how to handle these things yourself, quickly and for a fraction of the cost."
+            ]
+          },
+          {
+            "h": "What AI does not replace",
+            "p": [
+              "It does not replace decision-making, customer relationships or responsibility for the result. Always check the output, especially facts, numbers and the tone of communication.",
+              "AI is an assistant that speeds up work. Quality depends on what you ask of it and how you judge the result."
+            ]
+          },
+          {
+            "h": "How to start",
+            "p": [
+              "Pick one repetitive task that slows you down and test it with AI on real material. Compare time and quality. Only when it works, extend it to the next task.",
+              "This approach is cheap, safe and quickly shows whether it pays off."
+            ]
+          },
+          {
+            "h": "AI in custom systems",
+            "p": [
+              "For larger processes, such as orders, invoicing or bookings, it pays to build automation directly into the company system. At SystemX we build software so that technology takes over repetitive work and serves the company, not the other way round."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mesto",
+        "tag": "Public sector",
+        "title": "How to connect a town with local companies",
+        "perex": "Towns and companies often talk about cooperation but lack a shared project. Film o meste is one way to create it.",
+        "minutes": 4,
+        "body": [
+          {
+            "h": "A shared product instead of shared words",
+            "p": [
+              "Cooperation starts to work when both sides have something to gain and something to create together. In Film o meste, that product is a documentary about the town, made with the mayor and local companies as partners."
+            ]
+          },
+          {
+            "h": "What the town gets",
+            "p": [
+              "The town receives a professional film chronicle for future generations, not a short advertisement. Local governments can receive the work free of charge, with terms agreed in person."
+            ]
+          },
+          {
+            "h": "What companies get",
+            "p": [
+              "Partner companies gain reach through premieres and the town's channels, prestige and content for social media. They also become publicly associated with the town where they operate.",
+              "At the premiere of the pilot film in Sereď, the mayor met company directors, which is a valuable networking opportunity in itself."
+            ]
+          },
+          {
+            "h": "How it works in practice",
+            "p": [
+              "First we agree with the town, then we approach local companies, and finally we film. We premiere the film and share it through the town's channels and social media. After the pilot in Sereď, films about Senec, Galanta and Šaľa are in production."
+            ]
+          },
+          {
+            "h": "B2G: a segment that is rarely talked about",
+            "p": [
+              "Most managers work in B2B or B2C. Yet B2G (Business-to-Government) is key to the development of both companies and towns. Factories, developer projects and town halls are often just metres apart, but communication between them tends to be minimal.",
+              "Developers have to settle permits and infrastructure with the town for every building. If they can show their vision and its benefit to the community before the first wall goes up, the level of discussion with the town and the public changes fundamentally."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "softver",
+        "tag": "Digitalisation",
+        "title": "Custom software versus off-the-shelf solutions",
+        "perex": "A ready-made platform is a quick start. Custom software gives independence. How to decide what fits your company.",
+        "minutes": 3,
+        "body": [
+          {
+            "h": "What a ready-made platform offers",
+            "p": [
+              "Platforms like Wix or Shopify can be launched quickly. The convenience comes with monthly fees, dependence on the provider and limited customisation."
+            ]
+          },
+          {
+            "h": "What custom software offers",
+            "p": [
+              "The system and the data belong to you. You have your own colours, brand and domain, and you do not need third-party platforms or external apps. The software grows with the company, not the other way round."
+            ]
+          },
+          {
+            "h": "How to decide",
+            "p": [
+              "Look at whether you have a specific process: B2B orders, bookings, invoicing with reminders or a portal for a local government. If a ready-made platform does not cover it and you work around it by hand, custom software makes sense.",
+              "At SystemX we begin with a free, non-binding consultation, then you receive a design with an exact price, and only then come development and launch with training and support."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "komunita",
+        "tag": "Community",
+        "title": "How to build a local community of entrepreneurs",
+        "perex": "A community does not grow from presentations. It grows from regular meetups where people advise each other and work together.",
+        "minutes": 3,
+        "body": [
+          {
+            "h": "Start with a simple reason",
+            "p": [
+              "Podnikavci v Seredi started for three reasons: so people can get advice when they have a problem, so they find new partners to work with, and so they give each other courage. Together, it is simply easier."
+            ]
+          },
+          {
+            "h": "An informal setting",
+            "p": [
+              "We meet in a café over coffee, without stiff presentations. Entry is free and open to anyone who does business in Sereď and the surrounding area or plans to."
+            ]
+          },
+          {
+            "h": "A topic for every meetup",
+            "p": [
+              "Each meetup has a practical topic: paid advertising and Google Business Profile, filming content with a phone, ChatGPT and AI for small companies, e-invoicing and legislation. People leave with something they can use."
+            ]
+          },
+          {
+            "h": "A shared output",
+            "p": [
+              "Members introduce themselves and show their services. A shared video in which everyone introduced themselves in one sentence got 50,000 organic views without paid promotion. The community gained visibility too."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

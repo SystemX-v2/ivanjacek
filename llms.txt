@@ -1,0 +1,35 @@
+# Ivan Jaček
+
+> Ivan Jaček: kreatívny stratég. Zakladá a vedie projekty Seredan, Buduj Značku, Film o meste, Podnikavci v Seredi a SystemX.
+
+Roky som v IDC Holding viedol tím približne 80 ľudí a projekty v hodnote státisícov eur. Dnes túto biznisovú optiku vnášam do videa a digitálnej stratégie: budujem značky, prepájam samosprávy s firmami a organizujem komunity.
+
+## Projekty
+
+- [Seredan](https://www.seredan.sk): Spoluzakladateľ. Lokálne médium zo Serede: rozhovory, články, reportáže a podcast o ľuďoch, firmách a dianí v meste.
+- [Buduj Značku](https://www.budujznacku.sk): Zakladateľ a kreatívny stratég. Kreatívno-strategická agentúra, ktorá spája marketing, réžiu a storytelling. Firemné videá, fotografie, dokumenty a workshopy.
+- [Film o meste](https://filmomeste.sk): Zakladateľ. Dokumentárny cyklus o slovenských mestách. Po pilotnom filme o Seredi vznikajú filmy o Senci, Galante a Šali.
+- [Podnikavci v Seredi](https://www.facebook.com/groups/podnikavci.sered): Autor, organizátor a prednášajúci. Komunita lokálnych podnikateľov, živnostníkov a freelancerov. Neformálne stretnutia v Seredi od leta 2025, vstup je voľný.
+- Úspešný Slovák: Projekt Buduj Značku. Motivačný dokumentárny formát o životných cestách výnimočných Slovákov. Hosťami boli gitarista Jimi Cimbala, cestovateľ Martin Navrátil, marketér Filip Kuna, thajboxerka Monika Chochlíková a diaľková plavkyňa Soňa Rebrová.
+- [SystemX](https://systemx.sk): Zakladateľ a konateľ. Softvér a webové systémy na mieru: objednávkové a rezervačné systémy, fakturácia a firemné portály.
+
+## Odborné články
+
+- [Ako postaviť značku, ktorá predáva](https://ivanjacek.sk/clanky/znacka.html): Pekné video ešte nie je značka. Značka vzniká, keď stratégia, obsah a výsledky ťahajú rovnakým smerom.
+- [Čo dnes dokáže umelá inteligencia v malej firme](https://ivanjacek.sk/clanky/ai.html): AI už nie je len pre veľké firmy. Kde pomáha hneď, čo nenahradí a ako s ňou začať bez rizika.
+- [Ako prepojiť mesto s lokálnymi firmami](https://ivanjacek.sk/clanky/mesto.html): Mestá a firmy často hovoria o spolupráci, no chýba im spoločný projekt. Film o meste je jeden zo spôsobov, ako ho vytvoriť.
+- [Softvér na mieru verzus krabicové riešenia](https://ivanjacek.sk/clanky/softver.html): Hotová platforma je rýchly štart. Softvér na mieru dáva nezávislosť. Ako sa rozhodnúť, čo sedí vašej firme.
+- [Ako vybudovať lokálnu komunitu podnikateľov](https://ivanjacek.sk/clanky/komunita.html): Komunita nevzniká z prezentácií. Vzniká z pravidelných stretnutí, v ktorých sa ľudia navzájom radia a spolupracujú.
+
+## Kontakt
+
+- E-mail: info@budujznacku.sk
+- Telefón: +421 908 714 705
+- LinkedIn: https://www.linkedin.com/in/ivanjacek
+
+## Zdroje
+
+- [Web](https://ivanjacek.sk/)
+- [Celý obsah webu, slovensky (https://ivanjacek.sk/content/sk.json)](https://ivanjacek.sk/content/sk.json)
+- [Celý obsah webu, anglicky (https://ivanjacek.sk/content/en.json)](https://ivanjacek.sk/content/en.json)
+- [Ochrana osobných údajov](https://ivanjacek.sk/sukromie.html)

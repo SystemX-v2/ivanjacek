@@ -1,0 +1,563 @@
+{
+  "meta": {
+    "title": "Ivan Jaček – kreatívny stratég | Seredan, Buduj Značku, SystemX",
+    "description": "Ivan Jaček: kreatívny stratég. Zakladá a vedie projekty Seredan, Buduj Značku, Film o meste, Podnikavci v Seredi a SystemX."
+  },
+  "nav": {
+    "projects": "Projekty",
+    "segments": "Komu pomáham",
+    "contact": "Kontakt",
+    "expertise": "Čo robím",
+    "articles": "Články"
+  },
+  "hero": {
+    "name": "Ivan Jaček",
+    "cta": "Čo robím",
+    "photo": "assets/ivan.webp",
+    "photo_alt": "Portrét Ivana Jačka",
+    "role": "Projektový režisér a zakladateľ Buduj Značku, ex-manažér IDC Holding",
+    "lead": "Roky som v IDC Holding viedol tím približne 80 ľudí a projekty v hodnote státisícov eur. Dnes túto biznisovú optiku vnášam do videa a digitálnej stratégie: budujem značky, prepájam samosprávy s firmami a organizujem komunity.",
+    "headline_pre": "Budujem",
+    "words": [
+      "značky",
+      "komunity",
+      "dokumenty o mestách",
+      "digitálne systémy",
+      "partnerstvá B2G"
+    ],
+    "sr_headline": "Budujem značky, komunity, dokumenty o mestách, digitálne systémy a partnerstvá B2G.",
+    "orbit_label": "Moje projekty"
+  },
+  "marquee": {
+    "label": "Spolupráce a klienti",
+    "items": [
+      "Mercedes-Benz",
+      "Strabag",
+      "Lindström",
+      "Duslo Šaľa",
+      "Semmelrock",
+      "I.D.C. Holding",
+      "NMH",
+      "Mesto Sereď",
+      "Mesto Senec",
+      "Mesto Galanta",
+      "Mesto Šaľa",
+      "Hubert J.E.",
+      "wienerberger Slovensko"
+    ]
+  },
+  "stats": {
+    "heading": "V číslach",
+    "items": [
+      {
+        "value": 80,
+        "label": "ľudí v tíme, ktorý som viedol v IDC Holding (približne)"
+      },
+      {
+        "value": 1000000,
+        "suffix": "+",
+        "label": "organických zhliadnutí jedného lokálneho Reelu pre pizzeriu"
+      },
+      {
+        "value": 4,
+        "label": "mestá vo Filme o meste: Sereď, Senec, Galanta, Šaľa"
+      },
+      {
+        "value": 50000,
+        "label": "organických zhliadnutí spoločného videa Podnikavcov"
+      }
+    ]
+  },
+  "projects": {
+    "heading": "Projekty",
+    "lead": "Šesť projektov, ktoré som vymyslel a vediem. Otvor ktorýkoľvek a pozri, ako funguje a komu pomáha.",
+    "items": [
+      {
+        "id": "seredan",
+        "name": "Seredan",
+        "role": "Spoluzakladateľ",
+        "text": "Lokálne médium zo Serede: rozhovory, články, reportáže a podcast o ľuďoch, firmách a dianí v meste.",
+        "url": "https://www.seredan.sk",
+        "status": "active",
+        "image": "assets/logo-seredan.webp",
+        "image_kind": "logo",
+        "image_alt": "Logo Seredan",
+        "details": {
+          "summary": "Seredan začal ako video podcast. Dnes je to lokálne médium, ktoré zachytáva život v meste: príbehy, úspechy, výzvy aj každodennosť.",
+          "how": [
+            "Natáčame rozhovory a podcast s ľuďmi, firmami a osobnosťami zo Serede.",
+            "Prinášame články a reportáže o dianí v meste a okolí.",
+            "Predstavujeme lokálne firmy zvnútra, cez ľudí, prácu a ich príbehy.",
+            "Tvoríme krátke videá a Reels, od reklamných po inšpiratívne a zábavné."
+          ],
+          "benefits": [
+            "Jedno miesto, kde sa Sereď rozpráva, inšpiruje a spája.",
+            "Lokálne firmy sa predstavia cez svoje príbehy a ľudí.",
+            "Dosah na webe, YouTube, Spotify, Instagrame, TikToku aj Facebooku.",
+            "Stretnutia podnikavcov a Dokument o Seredi priamo pod jednou značkou."
+          ],
+          "for": [
+            "Lokálne firmy a živnostníci",
+            "Mesto Sereď a lokálne organizácie",
+            "Obyvatelia Serede a okolia"
+          ]
+        }
+      },
+      {
+        "id": "budujznacku",
+        "name": "Buduj Značku",
+        "role": "Zakladateľ a kreatívny stratég",
+        "text": "Kreatívno-strategická agentúra, ktorá spája marketing, réžiu a storytelling. Firemné videá, fotografie, dokumenty a workshopy.",
+        "url": "https://www.budujznacku.sk",
+        "status": "active",
+        "image": "assets/logo-budujznacku.webp",
+        "image_kind": "logo",
+        "image_alt": "Logo Buduj Značku",
+        "details": {
+          "summary": "Agentúra, ktorá nepredáva len pekné videá, ale výsledky. Zastreší audit, kreatívu, produkciu aj projektové riadenie.",
+          "how": [
+            "Audit a analýza: zmapujeme, kde firma stojí.",
+            "Návrh stratégie a kreatívneho konceptu.",
+            "Kompletná realizácia: scenár, réžia, natáčanie, foto, dron a strih.",
+            "Projektové riadenie od prvého nápadu po odovzdanie."
+          ],
+          "benefits": [
+            "Stratégia, kreatíva aj produkcia od jedného tímu.",
+            "Malé jadro tímu, pri väčších akciách celý produkčný tím s kamerou, fotením a dronom.",
+            "Firemné videá, fotografie, dokumenty, Reels, eventy aj inštruktážne videá pod jednou strechou.",
+            "Workshopy a 60-hodinový program o digitálnom marketingu, tvorbe obsahu a AI."
+          ],
+          "for": [
+            "Výrobné a priemyselné firmy (employer branding, onboarding)",
+            "Malé a stredné firmy, ktoré chcú byť viditeľné",
+            "Mestá a samosprávy",
+            "Organizátori eventov a festivalov"
+          ]
+        }
+      },
+      {
+        "id": "filmomeste",
+        "name": "Film o meste",
+        "role": "Zakladateľ",
+        "text": "Dokumentárny cyklus o slovenských mestách. Po pilotnom filme o Seredi vznikajú filmy o Senci, Galante a Šali.",
+        "url": "https://filmomeste.sk",
+        "status": "active",
+        "image": "assets/logo-filmomeste.png",
+        "image_kind": "logo",
+        "image_alt": "Logo Film o meste",
+        "details": {
+          "summary": "Filmová kronika mesta, nie krátka reklama. Spája históriu, umenie a biznis a zvečňuje príbehy slovenských miest.",
+          "how": [
+            "Dohodneme sa s mestom a primátorom.",
+            "Do projektu zapojíme lokálne firmy ako partnerov.",
+            "Natáčame s dronom, rozhovormi a voice-overom.",
+            "Film uvedieme na premiére a šírime ho cez mestské kanály a sociálne siete."
+          ],
+          "benefits": [
+            "Mesto dostane profesionálnu filmovú kroniku pre budúce generácie.",
+            "Pre samosprávy je možná bezplatná odovzdávka diela, podmienky sa dohodnú osobne.",
+            "Firmy ako partneri získajú zásah cez premiéry, prestíž a obsah pre sociálne siete.",
+            "Pilotná premiéra v Seredi bola vypredaná."
+          ],
+          "for": [
+            "Mestá a samosprávy",
+            "Lokálne a regionálne firmy ako partneri",
+            "Obyvatelia, ktorí chcú vidieť svoje mesto inak"
+          ]
+        }
+      },
+      {
+        "id": "podnikavci",
+        "name": "Podnikavci v Seredi",
+        "role": "Autor, organizátor a prednášajúci",
+        "text": "Komunita lokálnych podnikateľov, živnostníkov a freelancerov. Neformálne stretnutia v Seredi od leta 2025, vstup je voľný.",
+        "url": "https://www.facebook.com/groups/podnikavci.sered",
+        "status": "active",
+        "image": "assets/logo-podnikavci.svg",
+        "image_kind": "logo",
+        "image_alt": "Symbol komunity Podnikavci v Seredi: traja ľudia",
+        "details": {
+          "summary": "Nie je to o škrobených prezentáciách, ale o vzťahoch a lokálnej spolupráci. Spolu je to jednoducho ľahšie.",
+          "how": [
+            "Stretávame sa neformálne v kaviarni pri káve.",
+            "Každé stretnutie má tému, napríklad platenú reklamu, natáčanie mobilom, AI alebo e-fakturáciu.",
+            "Členovia sa predstavia a ukážu svoje služby.",
+            "Z komunity vznikajú spoločné videá a spolupráce."
+          ],
+          "benefits": [
+            "Poradíš sa, keď niečo riešiš.",
+            "Nájdeš nových parťákov na spoluprácu.",
+            "Dodáme si navzájom chuť a odvahu ísť ďalej.",
+            "Vstup je voľný, spoločné video malo 50 000 organických zhliadnutí."
+          ],
+          "for": [
+            "Podnikatelia a živnostníci zo Serede a okolia",
+            "Freelanceri",
+            "Ľudia, ktorí podnikanie plánujú"
+          ]
+        }
+      },
+      {
+        "id": "uspesnyslovak",
+        "name": "Úspešný Slovák",
+        "role": "Projekt Buduj Značku",
+        "text": "Motivačný dokumentárny formát o životných cestách výnimočných Slovákov. Hosťami boli gitarista Jimi Cimbala, cestovateľ Martin Navrátil, marketér Filip Kuna, thajboxerka Monika Chochlíková a diaľková plavkyňa Soňa Rebrová.",
+        "status": "archive",
+        "image": "assets/uspesnyslovak.jpg",
+        "image_kind": "cover",
+        "image_alt": "Titulná grafika relácie Úspešný Slovák s hosťom Martinom Navrátilom",
+        "details": {
+          "summary": "Dokumentárny formát o ľuďoch, ktorí v niečom dosiahli výnimočné veci. Projekt je ukončený, vznikli príbehy piatich hostí.",
+          "how": [
+            "Pozvali sme výnimočného Slováka z jeho oblasti.",
+            "Natočili sme rozhovor o jeho ceste, výzvach a úspechoch.",
+            "Z príbehu vznikol dokumentárny formát."
+          ],
+          "benefits": [
+            "Inšpirácia zo skutočných životných príbehov.",
+            "Pestrá škála oblastí: hudba, cestovanie, marketing, thajský box a diaľkové plávanie.",
+            "Známe osobnosti, ktoré stoja za svojím príbehom."
+          ],
+          "for": [
+            "Každý, kto hľadá inšpiráciu v príbehoch výnimočných ľudí"
+          ]
+        }
+      },
+      {
+        "id": "systemx",
+        "name": "SystemX",
+        "role": "Zakladateľ a konateľ",
+        "text": "Softvér a webové systémy na mieru: objednávkové a rezervačné systémy, fakturácia a firemné portály.",
+        "url": "https://systemx.sk",
+        "status": "active",
+        "image": "assets/logo-systemx.webp",
+        "image_kind": "logo",
+        "image_alt": "Logo SystemX",
+        "details": {
+          "summary": "Vývoj pokročilých webových systémov a unikátnych online riešení. Od jednoduchých webov po B2B portály a systémy na mieru.",
+          "how": [
+            "Konzultácia: bezplatná a nezáväzná.",
+            "Návrh riešenia s presnou cenou.",
+            "Vývoj systému.",
+            "Spustenie: nasadenie, zaškolenie a podpora."
+          ],
+          "benefits": [
+            "Systém aj dáta patria klientovi, bez cudzích platforiem a externých aplikácií.",
+            "Automatizácia stereotypnej práce a využitie AI.",
+            "Vlastné farby, značka a doména.",
+            "Softvér, ktorý rastie s firmou.",
+            "FakturujX: vlastný fakturačný program s napojením na digitálneho poštára, ktorý poskytujem ostatným zadarmo."
+          ],
+          "for": [
+            "Firmy s B2B objednávkami, napríklad pekárne a lahôdkárne",
+            "Služby a salóny, ktoré potrebujú rezervácie",
+            "Firmy, ktoré chcú automatizovať fakturáciu a upomienky",
+            "Samosprávy a organizácie s portálmi a dashboardmi"
+          ]
+        }
+      }
+    ]
+  },
+  "segments": {
+    "heading": "Komu pomáham",
+    "lead": "Rôzne projekty slúžia rôznym ľuďom. Nájdi sa a otvor, čo ti sedí.",
+    "items": [
+      {
+        "id": "smb",
+        "name": "Malé a stredné firmy",
+        "text": "Viditeľnosť cez video a obsah, workshopy o marketingu a AI a softvér na mieru.",
+        "projects": [
+          "budujznacku",
+          "systemx"
+        ]
+      },
+      {
+        "id": "industry",
+        "name": "Výrobné a väčšie firmy",
+        "text": "Firemné videá, employer branding, inštruktážne videá na zaškoľovanie a B2B systémy.",
+        "projects": [
+          "budujznacku",
+          "systemx"
+        ]
+      },
+      {
+        "id": "cities",
+        "name": "Mestá a samosprávy",
+        "text": "Dokumentárne filmy o meste, lokálne médium a portály na mieru.",
+        "projects": [
+          "filmomeste",
+          "seredan",
+          "systemx"
+        ]
+      },
+      {
+        "id": "local",
+        "name": "Lokálni podnikatelia",
+        "text": "Komunita, v ktorej sa podnikatelia radia a spolupracujú, a médium, ktoré ich predstaví.",
+        "projects": [
+          "podnikavci",
+          "seredan"
+        ]
+      },
+      {
+        "id": "public",
+        "name": "Komunita a verejnosť",
+        "text": "Príbehy ľudí a miest, rozhovory a inšpirácia.",
+        "projects": [
+          "seredan",
+          "uspesnyslovak",
+          "filmomeste"
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Kontakt",
+    "lead": "Máte projekt, spoluprácu alebo nápad? Napíšte mi alebo zavolajte.",
+    "email": "info@budujznacku.sk",
+    "phone": "+421 908 714 705",
+    "linkedin": "https://www.linkedin.com/in/ivanjacek",
+    "linkedin_label": "LinkedIn"
+  },
+  "ui": {
+    "language": "Jazyk",
+    "archive": "Archív",
+    "visit": "Navštíviť web",
+    "skip": "Preskočiť na obsah",
+    "footer": "Buduj Značku s.r.o.",
+    "privacy": "Ochrana osobných údajov",
+    "sitemap": "Mapa stránky",
+    "cookies": "Nastavenia cookies",
+    "operator": "Buduj Značku s.r.o., IČO 56 936 125, Starý most 11/9, 926 01 Sereď",
+    "detail": "Detail",
+    "close": "Zavrieť",
+    "to_top": "Hore",
+    "menu": "Menu",
+    "tab_how": "Ako to funguje",
+    "tab_benefits": "Výhody",
+    "tab_for": "Pre koho",
+    "ended": "Projekt je ukončený",
+    "error": "Obsah sa nepodarilo načítať. Spusti stránku cez lokálny server: python3 -m http.server 8000",
+    "read": "Čítať",
+    "minutes_label": "min čítania",
+    "article": "Článok"
+  },
+  "expertise": {
+    "heading": "Čo robím",
+    "lead": "Stratégia, obsah, komunita a technológie v jednom. Takto vyzerá moja práca.",
+    "items": [
+      {
+        "title": "Značky a stratégia",
+        "text": "Audit, stratégia a kreatívny koncept. Video neriešim ako ozdobu, ale ako nástroj, ktorý plní biznisový cieľ: nábor, predaj alebo budovanie mena v regióne."
+      },
+      {
+        "title": "Video, podcasty a dokumenty",
+        "text": "Od virálnych Reels po firemné filmy a eventy. Obsah, ktorý ľudí buď vzdeláva, alebo baví. K tomu podcast Seredan a dokumentárny cyklus Film o meste."
+      },
+      {
+        "title": "Verejný sektor a firmy",
+        "text": "Prepájam samosprávy s firmami (B2G). Developerom a korporátom pomáham stať sa skutočnou súčasťou komunity, vo Filme o meste cez hodnotný obsah."
+      },
+      {
+        "title": "Komunity a eventy",
+        "text": "Organizujem stretnutia podnikavcov, moderujem a prednášam. Komunita vzniká tam, kde sa ľudia pravidelne stretávajú."
+      },
+      {
+        "title": "Mentoring a workshopy",
+        "text": "Učím firmy a živnostníkov, ako technicky aj strategicky zvládnuť sociálne siete, aby ich obsah prinášal výsledky aj bez externej agentúry. K tomu 60-hodinový program o digitálnom marketingu a AI."
+      },
+      {
+        "title": "AI a digitalizácia firiem",
+        "text": "Pomáham firmám zavádzať automatizáciu a umelú inteligenciu. Cez SystemX vyvíjam softvér na mieru."
+      }
+    ]
+  },
+  "articles": {
+    "heading": "Odborné články",
+    "lead": "Ako sa robí biznis, čo dnes dokáže umelá inteligencia a ako spolupracovať s verejným sektorom. Skúsenosti z mojich projektov.",
+    "items": [
+      {
+        "id": "znacka",
+        "tag": "Značka a marketing",
+        "title": "Ako postaviť značku, ktorá predáva",
+        "perex": "Pekné video ešte nie je značka. Značka vzniká, keď stratégia, obsah a výsledky ťahajú rovnakým smerom.",
+        "minutes": 4,
+        "body": [
+          {
+            "h": "Začnite auditom, nie kamerou",
+            "p": [
+              "Skôr než sa čokoľvek natočí, treba vedieť, komu firma predáva, čo sľubuje a kde sa stráca pozornosť zákazníkov. Preto v Buduj Značku začíname auditom a analýzou, potom navrhneme stratégiu a až potom prichádza realizácia a projektové riadenie.",
+              "Firma, ktorá preskočí audit, často natočí pekný obsah pre nesprávne publikum."
+            ]
+          },
+          {
+            "h": "Jedno video, jeden cieľ",
+            "p": [
+              "Každé video má riešiť jednu vec. Inštruktážne video učí jeden úkon, náborové video presviedča jedného typu kandidáta, krátke video na sociálne siete musí zaujať v prvých sekundách. Čím viac cieľov, tým menej sa splní.",
+              "Pri krátkych vertikálnych videách (formát 9:16) rozhoduje úvodný záber, titulky a zvuk, lebo veľa ľudí pozerá bez zapnutého zvuku."
+            ]
+          },
+          {
+            "h": "Neriešte len techniku, riešte dej",
+            "p": [
+              "Jeden lokálny Reel pre pizzeriu prekročil 1 000 000 videní bez veľkého štábu a drahej techniky. Stačil dobrý nápad, jednoduchý dej a pochopenie toho, čo lokálne publikum reálne baví.",
+              "Ak video ľudí buď pobaví, alebo vzdeláva, algoritmus ho odmení dosahom, ktorý si za peniaze nekúpite. Profesionálnu produkciu preto treba striedať s autentickým obsahom na sociálne siete."
+            ]
+          },
+          {
+            "h": "Ukážte ľudí, nie slogany",
+            "p": [
+              "Nikto nepozná vašu firmu tak dobre ako vy a vaši ľudia. Najlepší obsah vzniká priamo v prevádzke: výroba, tím, reálne procesy. Takto funguje employer branding aj inštruktážne videá na zaškoľovanie.",
+              "Dôveryhodné je to, čo je skutočné."
+            ]
+          },
+          {
+            "h": "Meranie je súčasť práce",
+            "p": [
+              "Kvalitné video predáva len vtedy, keď viete, čo má priniesť: dopyty, prihlášky uchádzačov, zapamätanie značky. Ciele treba určiť pred natáčaním, nie po ňom.",
+              "Nepredávame len pekné videá. Chceme, aby sa dalo ukázať, čo videá firme priniesli."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ai",
+        "tag": "Umelá inteligencia",
+        "title": "Čo dnes dokáže umelá inteligencia v malej firme",
+        "perex": "AI už nie je len pre veľké firmy. Kde pomáha hneď, čo nenahradí a ako s ňou začať bez rizika.",
+        "minutes": 4,
+        "body": [
+          {
+            "h": "Kde AI pomáha hneď",
+            "p": [
+              "Najväčší prínos vidím pri každodennej administratíve a tvorbe obsahu: e-maily, cenové ponuky, texty na web a sociálne siete, návrhy grafiky v nástrojoch ako Canva. Aj web sa dá dnes pripraviť bez programovania.",
+              "Na workshopoch ukazujeme, ako si s týmito vecami poradiť sami, rýchlo a za zlomok ceny."
+            ]
+          },
+          {
+            "h": "Čo AI nenahradí",
+            "p": [
+              "Nenahradí rozhodovanie, vzťahy so zákazníkmi ani zodpovednosť za výsledok. Výstup treba vždy skontrolovať, najmä fakty, čísla a tón komunikácie.",
+              "AI je asistent, ktorý zrýchľuje prácu. Kvalita závisí od toho, čo ju zadáte a ako výsledok posúdite."
+            ]
+          },
+          {
+            "h": "Ako začať",
+            "p": [
+              "Vyberte jednu opakujúcu sa činnosť, ktorá vás zdržiava, a otestujte ju s AI na reálnych podkladoch. Porovnajte čas a kvalitu. Až keď to funguje, rozšírte to na ďalšiu činnosť.",
+              "Takýto postup je lacný, bezpečný a rýchlo ukáže, či sa to oplatí."
+            ]
+          },
+          {
+            "h": "AI v systémoch na mieru",
+            "p": [
+              "Pri väčších procesoch, napríklad objednávkach, fakturácii alebo rezerváciách, sa oplatí automatizácia zabudovaná priamo do firemného systému. V SystemX staviame softvér tak, aby technológie prebrali stereotypnú prácu a slúžili firme, nie naopak."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mesto",
+        "tag": "Verejný sektor",
+        "title": "Ako prepojiť mesto s lokálnymi firmami",
+        "perex": "Mestá a firmy často hovoria o spolupráci, no chýba im spoločný projekt. Film o meste je jeden zo spôsobov, ako ho vytvoriť.",
+        "minutes": 4,
+        "body": [
+          {
+            "h": "Spoločný produkt namiesto spoločných slov",
+            "p": [
+              "Spolupráca sa začne dariť, keď má obe strany z čoho získať a majú čo spolu vytvoriť. Pri Filme o meste je tým produktom dokumentárny film o meste, ktorý vzniká v spolupráci s primátorom a lokálnymi firmami ako partnermi."
+            ]
+          },
+          {
+            "h": "Čo získa mesto",
+            "p": [
+              "Mesto dostane profesionálnu filmovú kroniku pre budúce generácie, nie krátku reklamu. Pre samosprávy je možná bezplatná odovzdávka diela, podmienky sa dohodnú osobne."
+            ]
+          },
+          {
+            "h": "Čo získajú firmy",
+            "p": [
+              "Firmy ako partneri získajú zásah cez premiéry a mestské kanály, prestíž a obsah pre sociálne siete. Zároveň sa verejne spájajú s mestom, v ktorom pôsobia.",
+              "Na premiére pilotného filmu v Seredi sa stretol primátor s riaditeľmi firiem, čo je sama o sebe hodnotná príležitosť na kontakt."
+            ]
+          },
+          {
+            "h": "Ako to funguje v praxi",
+            "p": [
+              "Najprv sa dohodneme s mestom, potom osloví lokálne firmy a nakoniec natáčame. Film uvedieme na premiére a šírime ho cez mestské kanály a sociálne siete. Po pilote v Seredi vznikajú filmy o Senci, Galante a Šali."
+            ]
+          },
+          {
+            "h": "B2G: segment, o ktorom sa málo hovorí",
+            "p": [
+              "Väčšina manažérov pracuje v B2B alebo B2C. Segment B2G (Business-to-Government) je pritom pre rozvoj firiem aj miest kľúčový. Fabriky, developerské projekty a radnice často sídlia len pár metrov od seba, no ich vzájomná komunikácia býva minimálna.",
+              "Developeri musia pri každej výstavbe riešiť s mestom povolenia a infraštruktúru. Ak dokážu ešte pred prvou stenou ukázať svoju víziu a prínos pre komunitu, úroveň diskusie s mestom aj verejnosťou sa zásadne zmení."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "softver",
+        "tag": "Digitalizácia",
+        "title": "Softvér na mieru verzus krabicové riešenia",
+        "perex": "Hotová platforma je rýchly štart. Softvér na mieru dáva nezávislosť. Ako sa rozhodnúť, čo sedí vašej firme.",
+        "minutes": 3,
+        "body": [
+          {
+            "h": "Čo prináša hotová platforma",
+            "p": [
+              "Platformy ako Wix alebo Shopify sa dajú spustiť rýchlo. Za pohodlie sa však platí mesačnými poplatkami, závislosťou od dodávateľa a obmedzenou možnosťou prispôsobenia."
+            ]
+          },
+          {
+            "h": "Čo prináša softvér na mieru",
+            "p": [
+              "Systém aj dáta patria vám. Máte vlastné farby, značku a doménu a nepotrebujete cudzie platformy ani externé aplikácie. Softvér rastie s firmou, nie naopak."
+            ]
+          },
+          {
+            "h": "Ako sa rozhodnúť",
+            "p": [
+              "Pozrite sa, či máte špecifický proces: B2B objednávky, rezervácie, fakturáciu s upomienkami alebo portál pre samosprávu. Ak ho hotová platforma nepokryje a obchádzate ho ručnou prácou, softvér na mieru dáva zmysel.",
+              "Pri SystemX začíname bezplatnou a nezáväznou konzultáciou, potom dostanete návrh s presnou cenou, až potom prichádza vývoj a spustenie so zaškolením a podporou."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "komunita",
+        "tag": "Komunita",
+        "title": "Ako vybudovať lokálnu komunitu podnikateľov",
+        "perex": "Komunita nevzniká z prezentácií. Vzniká z pravidelných stretnutí, v ktorých sa ľudia navzájom radia a spolupracujú.",
+        "minutes": 3,
+        "body": [
+          {
+            "h": "Začnite jednoduchým dôvodom",
+            "p": [
+              "Podnikavci v Seredi vznikli z troch dôvodov: aby sa dalo poradiť, keď niekto rieši problém, aby sa našli noví partneri na spoluprácu a aby si ľudia navzájom dodali odvahu. Spolu je to jednoducho ľahšie."
+            ]
+          },
+          {
+            "h": "Neformálne prostredie",
+            "p": [
+              "Stretávame sa v kaviarni, pri káve, bez škrobených prezentácií. Vstup je voľný a otvorený každému, kto v Seredi a okolí podniká alebo to plánuje."
+            ]
+          },
+          {
+            "h": "Téma na každé stretnutie",
+            "p": [
+              "Každé stretnutie má praktickú tému: platená reklama a Google Firma, natáčanie obsahu mobilom, ChatGPT a AI pre malé firmy, e-fakturácia a legislatíva. Ľudia odchádzajú s niečím použiteľným."
+            ]
+          },
+          {
+            "h": "Spoločný výstup",
+            "p": [
+              "Členovia sa navzájom predstavia a ukážu svoje služby. Spoločné video, v ktorom sa každý predstavil jednou vetou, malo bez platenej reklamy 50 000 organických zhliadnutí. Komunita tak získala aj viditeľnosť."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

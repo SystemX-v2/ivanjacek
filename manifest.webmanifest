@@ -1,0 +1,14 @@
+{
+  "name": "Ivan Jaček",
+  "short_name": "Ivan Jaček",
+  "description": "Ivan Jaček: kreatívny stratég. Zakladá a vedie projekty Seredan, Buduj Značku, Film o meste, Podnikavci v Seredi a SystemX.",
+  "lang": "sk",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#0d1b2e",
+  "theme_color": "#0d1b2e",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
