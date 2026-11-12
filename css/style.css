@@ -562,5 +562,6 @@ button { font: inherit; color: inherit; }
 @media (max-width: 760px) { .site-nav .social-link .social-text { display: inline; } }
 .site-footer { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-end; gap: 12px 32px; }
 .site-footer .footer-right { margin-left: auto; display: flex; align-items: center; justify-content: flex-end; gap: 14px; }
-.site-footer .footer-company { text-align: right; }
-@media (max-width: 760px) { .site-footer { justify-content: center; } .site-footer .footer-right { margin-left: 0; flex-direction: column; } .site-footer .footer-company { text-align: center; } .site-nav .social-link { justify-content: flex-start; } }
+@media (max-width: 760px) { .site-footer { justify-content: center; } .site-footer .footer-right { margin-left: 0; flex-direction: column; } .site-nav .social-link { justify-content: flex-start; } }
+.site-footer { padding-right: max(var(--gutter), 104px); }
+@media (max-width: 760px) { .site-footer { padding-right: var(--gutter); padding-bottom: 96px; } }

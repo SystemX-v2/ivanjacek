@@ -13,7 +13,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 BASE = "https://ivanjacek.sk/"
-VER = "20261119"
+VER = "20261122"
 OG_IMAGE = BASE + "assets/og-image.jpg"
 e = html.escape
 
