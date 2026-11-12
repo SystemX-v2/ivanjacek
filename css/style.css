@@ -559,8 +559,8 @@ button { font: inherit; color: inherit; }
 .social-link { display: inline-flex; align-items: center; gap: 10px; vertical-align: middle; }
 .social-link svg { flex: none; }
 .site-nav .social-link .social-text { display: none; }
-.site-footer .social-link { margin-right: 6px; }
 @media (max-width: 760px) { .site-nav .social-link .social-text { display: inline; } }
 .site-footer { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-end; gap: 12px 32px; }
-.site-footer .footer-company { margin-left: auto; text-align: right; }
-@media (max-width: 760px) { .site-footer { justify-content: center; } .site-footer .footer-company { margin-left: 0; text-align: center; } .site-nav .social-link { justify-content: flex-start; } }
+.site-footer .footer-right { margin-left: auto; display: flex; align-items: center; justify-content: flex-end; gap: 14px; }
+.site-footer .footer-company { text-align: right; }
+@media (max-width: 760px) { .site-footer { justify-content: center; } .site-footer .footer-right { margin-left: 0; flex-direction: column; } .site-footer .footer-company { text-align: center; } .site-nav .social-link { justify-content: flex-start; } }
